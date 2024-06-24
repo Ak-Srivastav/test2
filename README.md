@@ -29,9 +29,6 @@ WebRTC based peer to peer video calling and messaging web app build with MERN st
 
 **and more....**
 
-## New Features added recently:
-
-
 The **meetflow spaces** are implemented using MESH topology to establish a peer-to-peer network between every person or client joining the space.
 i.e, every person maintains a p2p connection with every other person in the room. 
 
